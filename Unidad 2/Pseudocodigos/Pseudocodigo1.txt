@@ -1,0 +1,20 @@
+/*
+mi primer pseudocodigo
+Austin Kenneth Lee Brown
+ITPA
+ITIC
+
+Programa que imprima mi nombre
+
+*/
+
+
+Algoritmo ImprimirNombre;
+VAR
+	CARACTER minombre;
+INICIO
+	ESCRIBIR("Cual es el nombre")
+	LEER (minombre);
+	Escribir(minombre);
+FIN
+
