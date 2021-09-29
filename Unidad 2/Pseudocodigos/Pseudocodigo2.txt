@@ -1,0 +1,25 @@
+/*
+Mi segundo pseudocodigo
+Austin Kenneth Lee Brown 
+ITPA
+ITIC
+
+Programa para sumar numeros
+
+*/
+
+Algoritmo Suma;
+VAR
+	INT numero1;
+	INT numero2;
+	INT resultado;
+INICIO
+	ESCRIBIR("Dame dos numeros")
+	LEER(numero1)
+	LEER(numero2)
+	resultado = numero1 + numero2;
+
+	ESCRIBIR("Dame el resultado", resultado);
+
+FIN
+
