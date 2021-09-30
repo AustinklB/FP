@@ -1,0 +1,30 @@
+/*
+
+Austin Kenneth Lee Brown 
+ITPA
+ITIC
+
+EJERCICIO 4
+
+un programa que te pida tu nombre y apellidos por separado y que los imprima en un renglón
+
+
+*/
+Algoritmo Imprimenombres
+VAR
+	CARACTER nombre1;
+	CARACTER nombre2;
+	CARACTER apellido1;
+	CARACTER apellido2;
+
+INICIO
+	ESCRIBIR(dame tus nombres y despues tus apellido)
+	LEER(nombre1)
+	LEER(nombre2)
+	LEER(apellido1)
+	LEER(apellido2)
+
+	ESCRIBIR("Nombre completo", nombre1, nombre2, apellido1, apellido2)
+
+FIN
+

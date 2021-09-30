@@ -1,0 +1,32 @@
+/*
+
+Austin Kenneth Lee Brown 
+ITPA
+ITIC
+
+EJERCICIO 1
+
+Programa que te pide las calificaciones y las imprime en un renglón
+
+
+*/
+
+Algoritmo Imprimircalificaciones
+VAR
+	INT numero1;
+	INT numero2;
+	INT numero3;
+	INT numero4;
+	INT numero5;
+
+INICIO
+	ESCRIBIR("Cuales son las calificaciones?")
+	LEER(numero1)
+	LEER(numero2)
+	LEER(numero3)
+	LEER(numero4)
+	LEER(numero5)
+
+	ESCRIBIR("Dame las calificaciones?", nuemro1, numero2, numero3, numero4, numero5)
+
+FIN

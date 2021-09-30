@@ -1,0 +1,28 @@
+/*
+
+Austin Kenneth Lee Brown 
+ITPA
+ITIC
+
+EJERCICIO 3
+
+Programa que te pide un numero y lo eleva a cuadrado
+
+
+*/
+
+Algoritmo Imprimircalificaciones
+VAR
+	INT numero1;
+	INT resultado1;
+
+INICIO
+	ESCRIBIR("Que numeros quisiera elevar al cuadrado?")
+	LEER(numero1)
+	resultado1 = numero1 * numero1
+
+	ESCRIBIR("Dame el resultado", resultado1)
+
+
+FIN
+

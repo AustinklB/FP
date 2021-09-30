@@ -1,0 +1,33 @@
+/*
+
+Austin Kenneth Lee Brown 
+ITPA
+ITIC
+
+EJERCICIO 
+
+un programa que te pida 2 numeros y te imprima el mayor 
+
+
+*/
+
+Algoritmo Imprirnumeromayor 
+VAR 
+	INT numero1;
+	INT numero2;
+	INT resultado1;
+	INT resultado2;
+
+INICIO 
+	ESCRIBIR("Dame dos numero")
+	LEER(numero1)
+	LEER(numero2)
+IF numero1 == numero2
+	ESCRIBIR("Los numeros son iguales")
+ELIF numero1 > numero2
+	ESCRIBIR("El numero mayor es", numero1)
+ELSE numero1 < numero2
+	ESCRIBIR("El numero mator es", numero2)
+
+FIN 
+
